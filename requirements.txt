@@ -9,3 +9,4 @@ Flask-COS
 pandas
 impyla
 python-ldap
+flake8
