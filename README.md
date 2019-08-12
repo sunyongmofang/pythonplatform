@@ -15,6 +15,7 @@
 - python-ldap
 - cython
 - numpy
+- redis
 
 ## 使用方法
 
