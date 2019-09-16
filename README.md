@@ -10,6 +10,8 @@
 - Flask-PyMongo
 - Flask-RESTful
 - Flask-COS
+- Flask-Script
+- SQLAlchemy
 - pandas
 - impyla
 - python-ldap
