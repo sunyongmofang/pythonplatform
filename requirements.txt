@@ -13,3 +13,4 @@ impyla
 python-ldap
 flake8
 redis
+jupyter
