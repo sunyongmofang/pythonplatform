@@ -15,9 +15,9 @@
 - pandas
 - impyla
 - python-ldap
-- cython
-- numpy
+- flake8
 - redis
+- jupyter
 
 ## 使用方法
 
