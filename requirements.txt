@@ -16,3 +16,4 @@ redis
 jupyter
 openpyxl
 toml
+xlsxwriter
