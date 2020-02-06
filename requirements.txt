@@ -7,7 +7,6 @@ Flask-PyMongo
 Flask-RESTful
 Flask-COS
 Flask-Script
-Flask-Redis
 SQLAlchemy
 pandas
 impyla

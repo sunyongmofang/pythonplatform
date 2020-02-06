@@ -1,6 +1,6 @@
 # pythonplatform
 
-## 已安装
+## 已安装python模块
 
 - cython
 - numpy
@@ -13,7 +13,6 @@
 - Flask-RESTful
 - Flask-COS
 - Flask-Script
-- Flask-Redis
 - SQLAlchemy
 - pandas
 - impyla
@@ -24,6 +23,8 @@
 - openpyxl
 - toml
 - xlsxwriter
+
+## 已安装系统组件
 
 - python3-dev
 - openldap-dev
