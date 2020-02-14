@@ -35,7 +35,6 @@
 - cyrus-sasl-gssapiv2
 - zeromq-dev
 - yasm
-- ffmpeg
 - openssh
 
 ## 使用方法
