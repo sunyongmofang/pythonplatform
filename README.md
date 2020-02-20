@@ -13,6 +13,7 @@
 - Flask-RESTful
 - Flask-COS
 - Flask-Script
+- Flask-Socketio
 - SQLAlchemy
 - pandas
 - impyla
