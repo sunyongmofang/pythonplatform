@@ -11,7 +11,7 @@
 - Flask
 - Flask-PyMongo
 - Flask-RESTful
-- Flask-COS
+- Flask-CORS
 - Flask-Script
 - Flask-Socketio
 - SQLAlchemy
