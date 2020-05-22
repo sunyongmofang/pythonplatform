@@ -24,6 +24,7 @@
 - openpyxl
 - toml
 - xlsxwriter
+- xlwt
 
 ## 已安装系统组件
 
